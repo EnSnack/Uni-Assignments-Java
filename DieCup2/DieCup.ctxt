@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=DieCup
+comment0.text=\r\n\ This\ class\ models\ a\ DieCup\ (rafleb\u00E6ger)\r\n\ \r\n\ @author\ Kurt\ Jensen\r\n\ @version\ 2017-05-01\r\n
+comment1.params=sides1\ sides2
+comment1.target=DieCup(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ DieCup\ objects\r\n
+comment2.params=
+comment2.target=void\ roll()
+comment2.text=\r\n\ Obtain\ a\ new\ number\ of\ eyes\ for\ both\ dies\r\n
+comment3.params=
+comment3.target=int\ getMaxEyes()
+comment3.text=\r\n\ Get\ the\ current\ max\ amount\ of\ rolled\ eyes\r\n
+comment4.params=
+comment4.target=void\ resetMaxEyes()
+comment4.text=\r\n\ Resets\ the\ current\ max\ amount\ of\ rolled\ eyes\r\n
+comment5.params=
+comment5.target=int\ getEyes()
+comment5.text=\r\n\ Return\ the\ sum\ of\ the\ number\ of\ eyes\ shown\ by\ the\ two\ dies\r\n
+comment6.params=noOfRolls
+comment6.target=void\ multipleRolls(int)
+comment6.text=\r\n\ Roll\ multiple\ times\r\n
+numComments=7

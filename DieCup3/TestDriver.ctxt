@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TestDriver
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ TestDriver\ her.\r\n\ \r\n\ @author\ (dit\ navn\ her\r\n\ @version\ (versions\ nummer\ eller\ dato\ her)\r\n
+comment1.params=noOfSides
+comment1.target=void\ test(int)
+comment1.text=\r\n\ Konstrukt\u00F8r\ for\ objekter\ af\ klassen\ TestDriver\r\n
+comment2.params=noOfSides\ noOfRolls
+comment2.target=void\ testMultiple(int,\ int)
+comment3.params=s1\ s2\ s3\ s4\ noOfRolls
+comment3.target=void\ compareDieCups(int,\ int,\ int,\ int,\ int)
+numComments=4

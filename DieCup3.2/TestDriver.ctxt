@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TestDriver
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ TestDriver\ her.\r\n\ \r\n\ @author\ (dit\ navn\ her\r\n\ @version\ (versions\ nummer\ eller\ dato\ her)\r\n
+comment1.params=noOfRolls
+comment1.target=void\ test4638(int)
+comment1.text=\r\n\ Konstrukt\u00F8r\ for\ objekter\ af\ klassen\ TestDriver\r\n
+comment2.params=digits
+comment2.target=java.util.ArrayList\ createArrayList(int)
+comment3.params=dc1\ dc2\ noOfRolls
+comment3.target=void\ compareDieCups(int,\ int,\ int)
+numComments=4

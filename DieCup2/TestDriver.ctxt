@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TestDriver
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ TestDriver\ her.\r\n\ \r\n\ @author\ (dit\ navn\ her\r\n\ @version\ (versions\ nummer\ eller\ dato\ her)\r\n
+comment1.params=sides1\ sides2
+comment1.target=void\ test(int,\ int)
+comment1.text=\r\n\ Test\ a\ single\ roll\r\n
+comment2.params=noOfRolls\ sides1\ sides2
+comment2.target=void\ testMultiple(int,\ int,\ int)
+comment2.text=\r\n\ Test\ multiple\ rolls\r\n
+comment3.params=s1\ s2\ s3\ s4\ noOfRolls
+comment3.target=void\ compareDieCups(int,\ int,\ int,\ int,\ int)
+comment3.text=\r\n\ Compare\ two\ die\ cups\ of\ chosen\ sides\ to\ each\ other\r\n
+numComments=4
