@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MafiaCountryTest
+comment0.text=\r\n\ The\ test\ class\ MafiaCountryTest.\r\n\r\n\ @author\ Steffen\ W.\ Christensen\r\n\ @version\ 25/11-2018\ 19\:00,\ version\ 1.2\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ constructor()
+comment2.text=\r\n\ Testing\ the\ instance\ variables\ in\ the\ constructor.\r\n\ We\ test\:\r\n\ String\ name.\r\n\ Map<City,\ List<Road>>\ network.\r\n
+comment3.params=
+comment3.target=void\ bonus()
+comment3.text=\r\n\ Testing\ the\ bonus()\ method.\r\n\ We\ test\:\r\n\ That\ calling\ bonus()\ with\ a\ value\ has\ a\ chance\ to\ subtract\ money\ rather\ than\ giving.\r\n\ That\ calling\ bonus()\ with\ a\ value\ should\ have\ a\ money\ stealing\ risk\ of\ 20%.\r\n\ That\ calling\ bonus()\ with\ a\ value\ should\ steal\ on\ average\ around\ \u20AC30.\r\n\ That\ calling\ bonus()\ can\ have\ all\ values\ in\ the\ range\ of\ [10,50].\r\n
+comment4.params=
+comment4.target=void\ bonusOnlyMafia()
+comment4.text=\r\n\ Testing\ the\ bonus()\ method.\r\n\ We\ test\:\r\n\ That\ calling\ bonus()\ will\ only\ subtract\ money\ INSIDE\ a\ mafia\ country.\r\n
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BorderCity
+comment0.text=\r\n\ Represents\ a\ city\ that\ borders\ another\ country.\r\n\ Arriving\ at\ this\ city\ from\ another\ country\ will\ require\ a\ toll.\r\n\r\n\ @author\ Steffen\ W.\ Christensen\r\n\ @version\ 25/11-2018\ 19\:00,\ version\ 1.2\r\n
+comment1.params=name\ value\ country
+comment1.target=BorderCity(java.lang.String,\ int,\ Country)
+comment1.text=\r\n\ Constructor\ for\ the\ BorderCity\ object.\ Uses\ the\ parameters\ to\ send\ to\ the\r\n\ superclass.\r\n\ @param\ name\ \ \ \ \ \ \ The\ City's\ name.\r\n\ @param\ value\ \ \ \ \ \ The\ City's\ current\ and\ total\ value.\r\n\ @param\ country\ \ \ \ The\ Country\ the\ City\ is\ currently\ residing\ in.\r\n
+comment2.params=p
+comment2.target=int\ arrive(Player)
+comment2.text=\r\n\ Gets\ the\ superclass'\ arrive\ method,\ then\ checks\ if\ the\ player\ is\ entering\r\n\ from\ a\ different\ country\ than\ this\ city\ is\ located\ in.\r\n\ If\ they\ are,\ calculate\ a\ toll\ based\ on\ the\ settings\ and\ remove\ that\ from\ the\ bonus.\r\n\ Add\ the\ toll\ to\ the\ city's\ value.\r\n\ @return\ \ \ The\ bonus(-toll)\ for\ arriving\ in\ the\ current\ City.\r\n
+numComments=3

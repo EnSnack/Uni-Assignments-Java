@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Road
+comment0.text=\r\n\ Represents\ a\ Road\ connected\ by\ two\ cities.\r\n\ A\ Road\ object\ is\ one-directional,\ meaning\ you\ can\ have\ a\ Road\ between\ from\ A\ to\ B\r\n\ without\ having\ a\ Road\ from\ B\ to\ A.\r\n\r\n\ @author\ Steffen\ W.\ Christensen\r\n\ @version\ 8/11-2018\ 22\:00,\ version\ 1.0\r\n
+comment1.params=from\ to\ length
+comment1.target=Road(City,\ City,\ int)
+comment1.text=\r\n\ Constructor\ for\ the\ Road\ object.\r\n
+comment2.params=
+comment2.target=City\ getFrom()
+comment3.params=
+comment3.target=City\ getTo()
+comment4.params=
+comment4.target=int\ getLength()
+comment5.params=other
+comment5.target=int\ compareTo(Road)
+numComments=6

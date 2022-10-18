@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PositionTest
+comment0.text=\r\n\ The\ test\ class\ PositionTest.\r\n\r\n\ @author\ Steffen\ W.\ Christensen\r\n\ @version\ 25/11-2018\ 19\:00,\ version\ 1.2\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ constructor()
+comment3.text=\r\n\ Testing\ the\ instance\ variables\ in\ the\ constructor.\r\n\ Including\ possible\ special\ variables.\r\n\ We\ test\:\r\n\ City\ from,\ City\ to.\r\n\ int\ distance,\ int\ total.\r\n
+comment4.params=
+comment4.target=void\ move()
+comment4.text=\r\n\ Testing\ the\ move()\ method.\r\n\ We\ test\:\r\n\ That\ calling\ move()\ decrements\ distance\ by\ 1\ if\ above\ 0.\r\n\ That\ calling\ move()\ successfully\ returns\ true\ if\ moved.\r\n\ That\ calling\ move()\ with\ a\ distance\ of\ 0\ returns\ false.\r\n\ That\ calling\ move()\ on\ a\ position\ with\ negative\ distance\ also\ returns\ false.\r\n
+comment5.params=
+comment5.target=void\ hasArrived()
+comment5.text=\r\n\ Testing\ the\ hasArrived()\ method.\r\n\ We\ test\:\r\n\ That\ calling\ hasArrived()\ above\ 0\ distance\ returns\ false.\r\n\ That\ calling\ hasArrived()\ on\ 0\ distance\ returns\ true.\r\n\ That\ calling\ hasArrived()\ on\ negative\ distance\ returns\ false.\r\n
+comment6.params=
+comment6.target=void\ turnAround()
+comment6.text=\r\n\ Testing\ the\ turnAround()\ method.\r\n\ We\ test\:\r\n\ That\ calling\ turnAround()\ successfully\ swaps\ the\ from\ and\ to\ cities.\r\n\ That\ calling\ turnAround()\ successfully\ calculates\ the\ correct\ distance\ to\ the\ new\ city.\r\n\ That\ calling\ turnAround()\ while\ currently\ in\ the\ city\ will\ turn\ you\ towards\ where\ you\ came\ from.\r\n\ That\ calling\ turnAround()\ with\ a\ negative\ distance\ and\ total\ will\ essentially\ \r\n\ reset\ it,\ by\ putting\ the\ player\ at\ distance\ 0.\r\n\ That\ calling\ turnAround()\ with\ to\ and\ from\ as\ the\ same\ will\ change\ nothing.\r\n
+numComments=7

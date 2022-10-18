@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CapitalCityTest
+comment0.text=\r\n\ The\ test\ class\ CapitalCityTest.\r\n\r\n\ @author\ Steffen\ W.\ Christensen\r\n\ @version\ 25/11-2018\ 19\:00,\ version\ 1.2\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ constructor()
+comment2.text=\r\n\ Testing\ the\ instance\ variables\ in\ the\ constructor.\r\n\ We\ test\:\r\n\ String\ name.\r\n\ int\ value,\ int\ initialValue.\r\n\ Country\ country.\r\n
+comment3.params=
+comment3.target=void\ arriveToll()
+comment3.text=\r\n\ Testing\ the\ arrive()\ method.\r\n\ We\ test\:\r\n\ That\ calling\ arrive()\ will\ correctly\ require\ a\ toll\ if\ coming\ from\ outside\ the\ country.\r\n\ That\ calling\ arrive()\ will\ correctly\ require\ a\ random\ amount\ in\ expenses.\r\n\ That\ the\ toll\ and\ expenses\ are\ both\ correctly\ added\ to\ the\ city's\ value.\r\n
+comment4.params=
+comment4.target=void\ arriveNoToll()
+comment4.text=\r\n\ Testing\ the\ arrive()\ method.\r\n\ We\ test\:\r\n\ That\ calling\ arrive()\ will\ not\ require\ a\ toll\ if\ coming\ from\ inside\ the\ country.\r\n\ That\ calling\ arrive()\ will\ still\ require\ expenses\ paid\ for\ arriving\ in\ the\ capital.\r\n\ That\ calling\ arrive()\ in\ this\ situation\ will\ correctly\ add\ the\ expenses\ to\ the\ city's\ value\r\n\ and\ return\ a\ bonus\ with\ the\ expenses\ subtracted\ from\ it.\r\n
+numComments=5

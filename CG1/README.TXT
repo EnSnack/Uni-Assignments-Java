@@ -1,0 +1,1 @@
+Den bedste måde at vinde på, er at slukke de andre spillere :^)

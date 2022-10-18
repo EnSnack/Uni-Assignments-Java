@@ -1,0 +1,37 @@
+#BlueJ class context
+comment0.target=CountryTest
+comment0.text=\r\n\ The\ test\ class\ CountryTest.\r\n\r\n\ @author\ \ Steffen\ W.\ Christensen\r\n\ @version\ 17/11-2018\ 17\:00,\ version\ 1.1\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment10.params=
+comment10.target=void\ position()
+comment10.text=\r\n\ Testing\ the\ position()\ method.\r\n\ We\ test\:\r\n\ That\ calling\ position()\ no\ matter\ the\ country,\ will\ return\ the\ position\ of\ the\ city.\r\n
+comment11.params=
+comment11.target=void\ readyToTravel()
+comment11.text=\r\n\ Testing\ the\ readyToTravel()\ method.\r\n\ We\ test\:\r\n\ That\ calling\ readyToTravel()\ with\ two\ valid\ cities,\ with\ a\ valid\ road\ between\ them\r\n\ returns\ a\ position\ with\ a\ distance\ above\ 0.\r\n\ That\ calling\ readyToTravel()\ with\ a\ from\ city\ outside\ of\ the\ country\r\n\ returns\ a\ position\ with\ a\ distance\ equal\ to\ 0.\r\n\ That\ calling\ readyToTravel()\ with\ from\ \=\=\ to\ returns\ a\ position\r\n\ with\ a\ distance\ equal\ to\ 0.\r\n\ That\ calling\ readyToTravel()\ with\ two\ cities\ that\ have\ no\ direct\ road\ between\ them\r\n\ returns\ a\ position\ with\ a\ distance\ equal\ to\ 0.\r\n
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ constructor()
+comment3.text=\r\n\ Testing\ the\ instance\ variables\ in\ the\ constructor.\r\n\ We\ test\:\r\n\ String\ name.\r\n\ Map<City,\ List<Road>>\ network.\r\n
+comment4.params=
+comment4.target=void\ getRoads()
+comment4.text=\r\n\ Testing\ the\ getRoads()\ method.\r\n\ We\ test\:\r\n\ That\ calling\ getRoads()\ with\ a\ city\ in\ the\ country\ gets\ the\ roads\ connected\ to\ that\ city.\r\n\ That\ calling\ getRoads()\ with\ a\ city\ not\ in\ the\ same\ country,\ returns\ an\ empty\ list.\r\n\ That\ calling\ getRoads()\ with\ a\ city\ with\ no\ roads,\ returns\ an\ empty\ list.\r\n
+comment5.params=
+comment5.target=void\ getCities()
+comment5.text=\r\n\ Testing\ the\ getCities()\ method.\r\n\ We\ test\:\r\n\ That\ calling\ getCities()\ returns\ all\ cities\ in\ the\ country\ correctly.\r\n\ That\ calling\ getCities()\ on\ a\ country\ with\ no\ cities\ returns\ an\ empty\ list.\r\n
+comment6.params=
+comment6.target=void\ getCity()
+comment6.text=\r\n\ Testing\ the\ getCity()\ method.\r\n\ We\ test\:\r\n\ That\ calling\ getCity()\ with\ a\ city's\ name\ correctly\ returns\ the\ city\ object.\r\n\ That\ calling\ getCity()\ without\ a\ correct\ city\ name\ returns\ null.\r\n\ That\ calling\ getCity()\ with\ a\ city\ name\ from\ another\ country\ returns\ null.\r\n
+comment7.params=
+comment7.target=void\ reset()
+comment7.text=\r\n\ Testing\ the\ reset()\ method.\r\n\ We\ test\:\r\n\ That\ calling\ reset()\ correctly\ resets\ all\ cities'\ values\ in\ that\ country\ to\ their\ initial\ values.\r\n\ That\ calling\ reset()\ does\ not\ change\ the\ values\ of\ any\ cities\ in\ a\ different\ country.\r\n
+comment8.params=
+comment8.target=void\ bonus()
+comment8.text=\r\n\ Testing\ the\ bonus()\ method.\r\n\ We\ test\:\r\n\ That\ calling\ bonus()\ with\ a\ valid\ value\ correctly\ calculates\ a\ random\ bonus\ value.\r\n\ That\ calling\ bonus()\ with\ an\ invalid\ value\ correctly\ returns\ 0.\r\n
+comment9.params=
+comment9.target=void\ addRoads()
+comment9.text=\r\n\ Testing\ the\ addRoads()\ method.\r\n\ We\ test\:\r\n\ That\ calling\ addRoads()\ correctly\ adds\ a\ road\ between\ a\ and\ b\ of\ length\ \r\n\ if\ both\ a\ and\ b\ are\ inside\ the\ country.\r\n\ That\ calling\ addRoads()\ correctly\ adds\ a\ road\ from\ a\ to\ b/b\ to\ a\ of\ length\r\n\ if\ either\ a\ or\ b\ is\ inside\ the\ country.\r\n\ That\ calling\ addRoads()\ correctly\ does\ nothing\ if\ neither\ a\ nor\ b\ is\ inside\ the\ country.\r\n
+numComments=12
