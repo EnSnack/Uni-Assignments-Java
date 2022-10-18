@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Musician
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ Musician\ her.\r\n\ \r\n\ @author\ (dit\ navn\ her)\r\n\ @version\ (versions\ nummer\ eller\ dato\ her)\r\n
+comment1.params=name\ instrument\ skillLevel
+comment1.target=Musician(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Konstrukt\u00F8r\ for\ objekter\ af\ klassen\ Musician\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Et\ eksempel\ p\u00E5\ en\ metode\ -\ erstat\ denne\ kommentar\ med\ din\ egen\r\n\ \r\n\ @param\ \ y\ \ eksempel\ p\u00E5\ en\ parameter\ til\ en\ metode\r\n\ @return\ \ \ \ summen\ af\ x\ og\ y\ \r\n
+comment3.params=
+comment3.target=int\ getSkillLevel()
+comment4.params=
+comment4.target=java.lang.String\ getInstrument()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+numComments=6

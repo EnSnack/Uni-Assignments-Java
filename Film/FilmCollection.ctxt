@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FilmCollection
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ FilmCollection\ her.\r\n\ \r\n\ @author\ (dit\ navn\ her)\r\n\ @version\ (versions\ nummer\ eller\ dato\ her)\r\n
+comment1.params=owner
+comment1.target=FilmCollection(java.lang.String)
+comment1.text=\r\n\ Konstrukt\u00F8r\ for\ objekter\ af\ klassen\ FilmCollection\r\n
+comment2.params=f
+comment2.target=void\ add(Film)
+comment3.params=f
+comment3.target=void\ remove(Film)
+comment4.params=genre
+comment4.target=Film\ filmsOfGenre(java.lang.String)
+comment5.params=genre
+comment5.target=java.util.Optional\ bestFilmOfGenre(java.lang.String)
+comment6.params=age
+comment6.target=void\ printFilmCollection(int)
+numComments=7

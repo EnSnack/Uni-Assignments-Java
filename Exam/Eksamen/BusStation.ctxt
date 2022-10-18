@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BusStation
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BusStation\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=city
+comment1.target=BusStation(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BusStation\r\n
+comment2.params=b
+comment2.target=void\ addBus(Bus)
+comment3.params=maxPrice
+comment3.target=int\ cheapBusses(int)
+comment4.params=departure
+comment4.target=Bus\ cheapBus(java.lang.String)
+comment5.params=
+comment5.target=void\ printBusStation()
+comment6.params=destination
+comment6.target=int\ totalPrice(java.lang.String)
+comment7.params=min\ max
+comment7.target=java.util.Optional\ findBus(int,\ int)
+numComments=8

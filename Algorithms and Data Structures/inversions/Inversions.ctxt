@@ -1,0 +1,34 @@
+#BlueJ class context
+comment0.target=Inversions
+comment1.params=input
+comment1.target=int\ countInversions(java.util.ArrayList)
+comment1.text=public\ int\ countInversions(ArrayList<Integer>\ input)\ {\r\n\ \ \ \ \ \ \ \ int\ count\ \=\ 0;\r\n\ \ \ \ \ \ \ \ for(int\ i\ \=\ 0;\ i\ <\ input.size()-1;\ i++)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ for(int\ j\ \=\ i+1;\ j\ <\ input.size();\ j++)\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ if(input.get(i)\ >\ input.get(j))\ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ count++;\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ return\ count;\r\n}
+comment10.params=
+comment10.target=void\ testQuadraticTime()
+comment11.params=n
+comment11.target=long\ timeTest(int)
+comment12.params=
+comment12.target=void\ clearTerminal()
+comment13.params=testName
+comment13.target=void\ outputPass(java.lang.String)
+comment14.params=testName\ message
+comment14.target=void\ outputFail(java.lang.String,\ java.lang.String)
+comment15.params=args
+comment15.target=void\ main(java.lang.String[])
+comment2.params=input\ temp\ s\ e
+comment2.target=int\ mergeSort(java.util.ArrayList,\ java.util.ArrayList,\ int,\ int)
+comment3.params=input\ temp\ s\ m\ e
+comment3.target=int\ merge(java.util.ArrayList,\ java.util.ArrayList,\ int,\ int,\ int)
+comment4.params=
+comment4.target=void\ testAll()
+comment5.params=
+comment5.target=void\ testSingle()
+comment6.params=
+comment6.target=void\ testTwoSorted()
+comment7.params=
+comment7.target=void\ testTwoInverted()
+comment8.params=
+comment8.target=void\ test1()
+comment9.params=
+comment9.target=void\ test2()
+numComments=16

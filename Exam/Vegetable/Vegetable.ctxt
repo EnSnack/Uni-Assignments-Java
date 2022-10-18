@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Vegetable
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ Vegetable\ her.\r\n\ \r\n\ @author\ (dit\ navn\ her)\r\n\ @version\ (versions\ nummer\ eller\ dato\ her)\r\n
+comment1.params=name\ organic\ price
+comment1.target=Vegetable(java.lang.String,\ boolean,\ int)
+comment1.text=\r\n\ Konstrukt\u00F8r\ for\ objekter\ af\ klassen\ Vegetable\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ getPrice()
+comment4.params=
+comment4.target=boolean\ getOrganic()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=other
+comment6.target=int\ compareTo(Vegetable)
+numComments=7

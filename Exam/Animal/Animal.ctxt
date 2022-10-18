@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Animal
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ Animal\ her.\r\n\ \r\n\ @author\ (dit\ navn\ her)\r\n\ @version\ (versions\ nummer\ eller\ dato\ her)\r\n
+comment1.params=name\ females\ males
+comment1.target=Animal(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ getFemales()
+comment4.params=
+comment4.target=int\ getMales()
+comment5.params=other
+comment5.target=int\ compareTo(Animal)
+numComments=6

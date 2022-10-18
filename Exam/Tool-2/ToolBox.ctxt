@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ToolBox
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ ToolBox\ her.\r\n\ \r\n\ @author\ (dit\ navn\ her)\r\n\ @version\ (versions\ nummer\ eller\ dato\ her)\r\n
+comment1.params=owner
+comment1.target=ToolBox(java.lang.String)
+comment2.params=t
+comment2.target=void\ add(Tool)
+comment3.params=weight
+comment3.target=java.util.ArrayList\ heavyTools(int)
+comment4.params=
+comment4.target=int\ lightTool()
+comment5.params=
+comment5.target=void\ printToolBox()
+comment6.params=weight
+comment6.target=java.util.List\ heavyToolsFunc(int)
+comment7.params=
+comment7.target=java.util.Optional\ lightToolFunc()
+comment8.params=
+comment8.target=void\ printToolBoxFunc()
+numComments=9

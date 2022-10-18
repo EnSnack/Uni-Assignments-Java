@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Boat
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ Boat\ her.\r\n\ \r\n\ @author\ (dit\ navn\ her)\r\n\ @version\ (versions\ nummer\ eller\ dato\ her)\r\n
+comment1.params=name\ value\ forSale
+comment1.target=Boat(java.lang.String,\ int,\ boolean)
+comment1.text=\r\n\ Konstrukt\u00F8r\ for\ objekter\ af\ klassen\ Boat\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Et\ eksempel\ p\u00E5\ en\ metode\ -\ erstat\ denne\ kommentar\ med\ din\ egen\r\n\ \r\n\ @param\ \ y\ \ eksempel\ p\u00E5\ en\ parameter\ til\ en\ metode\r\n\ @return\ \ \ \ summen\ af\ x\ og\ y\ \r\n
+comment3.params=
+comment3.target=int\ getValue()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=boolean\ getForSale()
+comment6.params=other
+comment6.target=int\ compareTo(Boat)
+numComments=7

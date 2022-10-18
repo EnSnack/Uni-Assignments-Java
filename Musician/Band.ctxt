@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Band
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ Band\ her.\r\n\ \r\n\ @author\ (dit\ navn\ her)\r\n\ @version\ (versions\ nummer\ eller\ dato\ her)\r\n
+comment1.params=name
+comment1.target=Band(java.lang.String)
+comment1.text=\r\n\ Konstrukt\u00F8r\ for\ objekter\ af\ klassen\ Band\r\n
+comment2.params=m
+comment2.target=void\ add(Musician)
+comment2.text=\r\n\ Et\ eksempel\ p\u00E5\ en\ metode\ -\ erstat\ denne\ kommentar\ med\ din\ egen\r\n\ \r\n\ @param\ \ y\ \ eksempel\ p\u00E5\ en\ parameter\ til\ en\ metode\r\n\ @return\ \ \ \ summen\ af\ x\ og\ y\ \r\n
+comment3.params=m
+comment3.target=void\ remove(Musician)
+comment4.params=level
+comment4.target=int\ skilledMusicians(int)
+comment5.params=instrument
+comment5.target=Musician\ withInstrument(java.lang.String)
+comment6.params=
+comment6.target=void\ printBand()
+comment7.params=m1\ m2
+comment7.target=int\ compare(Musician,\ Musician)
+numComments=8

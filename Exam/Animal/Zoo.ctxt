@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Zoo
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ Zoo\ her.\r\n\ \r\n\ @author\ (dit\ navn\ her)\r\n\ @version\ (versions\ nummer\ eller\ dato\ her)\r\n
+comment1.params=name
+comment1.target=Zoo(java.lang.String)
+comment2.params=a
+comment2.target=void\ add(Animal)
+comment3.params=
+comment3.target=int\ animals()
+comment4.params=
+comment4.target=Animal\ largestPopulation()
+comment5.params=
+comment5.target=void\ printZoo()
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Shop
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ Shop\ her.\r\n\ \r\n\ @author\ (dit\ navn\ her)\r\n\ @version\ (versions\ nummer\ eller\ dato\ her)\r\n
+comment1.params=name
+comment1.target=Shop(java.lang.String)
+comment2.params=c
+comment2.target=void\ add(Carpet)
+comment3.params=price
+comment3.target=java.util.ArrayList\ selection(int)
+comment4.params=color
+comment4.target=Carpet\ cheapest(java.lang.String)
+comment5.params=
+comment5.target=void\ printShop()
+numComments=6

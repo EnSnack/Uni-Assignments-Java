@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=LegoBox
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ LegoBox\ her.\r\n\ \r\n\ @author\ (dit\ navn\ her)\r\n\ @version\ (versions\ nummer\ eller\ dato\ her)\r\n
+comment1.params=owner
+comment1.target=LegoBox(java.lang.String)
+comment2.params=b
+comment2.target=void\ add(Brick)
+comment3.params=color
+comment3.target=int\ weight(java.lang.String)
+comment4.params=
+comment4.target=Brick\ heaviest()
+comment5.params=
+comment5.target=void\ printLegoBox()
+numComments=6

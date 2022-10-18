@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Carpet
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ Carpet\ her.\r\n\ \r\n\ @author\ (dit\ navn\ her)\r\n\ @version\ (versions\ nummer\ eller\ dato\ her)\r\n
+comment1.params=color\ length\ price
+comment1.target=Carpet(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Konstrukt\u00F8r\ for\ objekter\ af\ klassen\ Carpet\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=int\ getPrice()
+comment4.params=
+comment4.target=int\ getLength()
+comment5.params=
+comment5.target=java.lang.String\ getColor()
+comment6.params=other
+comment6.target=int\ compareTo(Carpet)
+numComments=7

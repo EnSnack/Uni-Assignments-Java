@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Marina
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ Marina\ her.\r\n\ \r\n\ @author\ (dit\ navn\ her)\r\n\ @version\ (versions\ nummer\ eller\ dato\ her)\r\n
+comment1.params=name
+comment1.target=Marina(java.lang.String)
+comment1.text=\r\n\ Konstrukt\u00F8r\ for\ objekter\ af\ klassen\ Marina\r\n
+comment2.params=b
+comment2.target=void\ add(Boat)
+comment2.text=\r\n\ Et\ eksempel\ p\u00E5\ en\ metode\ -\ erstat\ denne\ kommentar\ med\ din\ egen\r\n\ \r\n\ @param\ \ y\ \ eksempel\ p\u00E5\ en\ parameter\ til\ en\ metode\r\n\ @return\ \ \ \ summen\ af\ x\ og\ y\ \r\n
+comment3.params=b
+comment3.target=void\ remove(Boat)
+comment4.params=t
+comment4.target=java.util.ArrayList\ cheaperThanAndForSale(int)
+comment5.params=
+comment5.target=Boat\ mostValuable()
+comment6.params=
+comment6.target=void\ printBoats()
+numComments=7
